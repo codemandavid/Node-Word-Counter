@@ -1,0 +1,66 @@
+
+body {
+  background: #f4f7f8;
+  color: rgb(56, 64, 71);
+  font-family: Nunito, sans-serif;
+}
+
+form {
+  background: rgb(232, 238, 239);
+  margin: auto;
+  margin-top: 15px;
+  padding: 30px;
+  width: 40%;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+fieldset {
+  border: none;
+  margin-bottom: 60px;
+}
+
+legend {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+
+label {
+  display: block;
+  margin: 10px 0;
+}
+
+
+input[type="password"], 
+textarea, 
+select {
+  background: rgba(0,0,0,0.031);
+  border: none;
+  border-radius: 2px;
+  color: rgb(138, 151, 160);
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 100%;
+ ;
+}
+
+
+
+.light {
+  display: inline-block;
+}
+
+button {
+  background-color: #4bc970;
+  border: none;
+  border-radius: 7px;
+  color: #fff;
+  font-size: 1.2em;
+  margin-top: 20px;
+  padding: 20px;
+  width: 100%;
+}
